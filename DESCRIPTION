@@ -53,6 +53,7 @@ VignetteBuilder: knitr
 Collate: 
     'RcppExports.R'
     'View.R'
+    'bootstrap_corpus.R'
     'bootstrap_dfm.R'
     'character-methods.R'
     'dictionaries.R'
